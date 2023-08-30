@@ -26,8 +26,7 @@ const Footer = () => {
           <span>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae
             assumenda vitae eum nihil distinctio cumque odio. Sit ipsam
-            doloremque necessitatibus odit ipsa non saepe quisquam labore. Sunt
-            rem sint molestias.
+            doloremque necessitatibus odit ipsa non saepe quisquam labore.
           </span>
         </div>
         <div className="item">
@@ -35,15 +34,16 @@ const Footer = () => {
           <span>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae
             assumenda vitae eum nihil distinctio cumque odio. Sit ipsam
-            doloremque necessitatibus odit ipsa non saepe quisquam labore. Sunt
-            rem sint molestias.
+            doloremque necessitatibus odit ipsa non saepe quisquam labore.
           </span>
         </div>
       </div>
       <div className="bottom">
         <div className="left">
           <span className="logo">NUEL's STORE</span>
-          <span className="copyright">© Copyright 2023. All Rights Reserved</span>
+          <span className="copyright">
+            © Copyright 2023. All Rights Reserved
+          </span>
         </div>
         <div className="right">
           <img src="/img/payment.png" alt="" />
