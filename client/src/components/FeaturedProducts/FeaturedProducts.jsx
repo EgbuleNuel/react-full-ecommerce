@@ -1,7 +1,7 @@
 import React from "react";
 import "./FeaturedProducts.scss";
 
-const FeaturedProducts = ([type]) => {
+const FeaturedProducts = ({type}) => {
   return (
     <div className="featuredProducts">
       <div className="top">
