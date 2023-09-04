@@ -16,11 +16,21 @@ const Contact = () => {
           <button>JOIN US</button>
         </div>
         <div className="icons">
-          <FacebookIcon />
-          <InstagramIcon />
-          <TwitterIcon />
-          <GoogleIcon />
-          <PinterestIcon />
+          <a href="#">
+            <FacebookIcon />
+          </a>
+          <a href="#">
+            <InstagramIcon />
+          </a>
+          <a href="#">
+            <TwitterIcon />
+          </a>
+          <a href="#">
+            <GoogleIcon />
+          </a>
+          <a href="#">
+            <PinterestIcon />
+          </a>
         </div>
       </div>
     </div>
